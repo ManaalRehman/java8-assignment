@@ -1,0 +1,11 @@
+﻿ID,Name,Age,Salary,Designation,Street,City,PostCode,Country
+1,John,32,40000,Software Developer,Preston,Brighton,Bn1 116,UK
+2,Dave,22,22000.45,Software Tester,Newheaven,London,LN1 2JL,UK
+3,Amit,35,50000,Manager,Tongdean,Manchester,MN1 345,UK
+4,William,45,90000,Director,Preston,Glasgow,GH2 7YH,UK
+5,Tony,66,40000,Operations,Crawley,Crawley,CR6 8YI,UK
+6,Anders,21,30000,Software Developer,Preston,Liverpool,Bn1 116,UK
+7,Archie,24,26000.45,Software Tester,Newheaven,Portsmouth,LN1 2JL,UK
+8,Brad,29,50000,Manager,Tongdean,Manchester,MN1 345,UK
+9,Kacper,28,80000,Director,Preston,Glasgow,GH2 7YH,UK
+10,Ben,39,40000,Operations,Crawley,Crawley,CR6 8YI,UK
