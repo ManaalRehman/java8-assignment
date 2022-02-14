@@ -67,7 +67,7 @@ public class Address {
 
     @Override
     public String toString(){
-        // TODO write a code implement this method
+       
         return street+" " +"\n\t "+city+ " " +"\n\t " + postcode+"\n\t " + country;
     }
 }
